@@ -1,0 +1,32 @@
+form{
+    width:50%;
+    background-image: url(_uhdarchitecture321.jpg);
+}
+fieldset{
+    border: 2px ridge rgb(207, 86, 86);
+}
+legend{
+    color: black;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace
+}
+input{
+    color: black;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px double black;
+}
+label{
+    color: #000;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#one{
+    
+    background-image:url(_uhdocean71.jpg);
+    color: white;
+}
+#one:hover{
+background-color:aqua ;
+
+}
